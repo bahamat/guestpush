@@ -15,8 +15,8 @@ You can also send to the same user at multiple providers this way.
 
 The following providers are configured.
 
-* [Airgram](http://airgram.app)
-* [Boxcar2](http://boxcar.io)
+* [Airgram](http://airgramapp.com/)
+* [Boxcar2](http://boxcar.io/)
 * [Notify My Android](https://www.notifymyandroid.com/)
 * [Prowl](http://www.prowlapp.com/)
 
