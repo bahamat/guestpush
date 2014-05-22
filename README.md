@@ -8,6 +8,9 @@ sent per hour.
 
     gpush -a TestApplication -s "A Subject" boxcar2:<token>,prowl:<token> "Long message."
 
+You can list multiple recipients separated by commas in the form of `provider:token`.
+You can also send to the same user at multiple providers this way.
+
 ## Supported push providers
 
 The following providers are configured.
